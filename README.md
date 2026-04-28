@@ -1,9 +1,10 @@
 This is the project info for CS558
 
 original data file gather form:
-https://www.kaggle.com/datasets/mexwell/us-drug-abuse
+https://www.kaggle.com/datasets/aniket0712/state-drug-utilization-data-2023?resource=download
 
 Original second data file:
+https://www.kaggle.com/datasets/mexwell/us-drug-abuse
 
 
 OR_drug.csv is a file with a trucanted version of the orignal data file
