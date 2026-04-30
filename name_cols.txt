@@ -1,0 +1,10 @@
+['Asian', 'Black/African American', 'Currently/Formerly Incarcerated', 'Extended Assessment', 'Students in Foster Care', 'Female', 'Hispanic/Latino', 'Homeless', 'American Indian/Alaskan Native', 'Indian Education', 'English Learners', 'Male', 'Military-connected', 'Migrant Education', 'Multi-Racial', 'Non-Binary', 'Students Not Experiencing Poverty', 'Pacific Islander', 'Recent Arrivers', 'Students Experiencing Poverty', 'SWD with Accommodations', 'Students with Disabilities (SWD)', 'Students without Disabilities', 'Talented and Gifted (TAG)', 'Total Population (All Students)', 'White']
+
+
+
+++++++++
+Cols
+['Academic Year', 'District ID', 'District', 'Subject', 'Student Group', 
+'Grade Level', 'Number Proficient', 'Percent Proficient', 'Number Level 4', 
+'Percent Level 4', 'Number Level 3', 'Percent Level 3', 'Number Level 2', 'Percent Level 2', 
+'Number Level 1', 'Percent Level 1', 'Number of Participants', 'Participation Rate']
